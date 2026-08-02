@@ -1,5 +1,7 @@
 # Abdomen GI Hepatobiliary Anatomy
-
+![Test](images/test.png)
+![Test2](test2.png)
+![Test3](Biochemistry/test3.png)
 ## Peritoneal Reflections & Key Spaces
 - **Lesser sac (omental bursa)**: behind stomach & lesser omentum; communicates with greater sac via **epiploic (omental) foramen of Winslow** — boundaries: anteriorly = free edge of lesser omentum (portal triad — portal vein, hepatic artery, common bile duct), posteriorly = IVC, superiorly = caudate lobe of liver, inferiorly = first part of duodenum
 - **Greater omentum**: hangs from greater curvature of stomach, "policeman of abdomen" — walls off infection/perforation (e.g., appendicitis, perforated ulcer)
